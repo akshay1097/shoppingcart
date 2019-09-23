@@ -6,6 +6,7 @@ public class Order {
 	private String prodId;
 	private String userID;
 	private String orderDate;
+	private String productName;
 
 	public String getOrderId() {
 		return orderId;
